@@ -4,7 +4,7 @@ An internship-level NLP and Machine Learning project that screens resumes, extra
 
 ## Overview
 
-This project automates resume screening with NLP, semantic matching, and hybrid scoring. It is designed to simulate a real Applicant Tracking System used by recruitment teams.
+This project automates resume screening with NLP, semantic matching, and hybrid scoring. It simulates a real Applicant Tracking System used by recruitment teams.
 
 ## Key Capabilities
 
@@ -84,38 +84,3 @@ FUTURE_ML_03/
 
 - `Resume.csv` is tracked with Git LFS.
 - The repository includes notebook documentation suitable for GitHub presentation and recruiter review.
-
----
-
-# Learning Outcomes
-
-Through this project, I learned:
-
-- Natural Language Processing (NLP)
-- Resume preprocessing
-- Skill extraction techniques
-- TF-IDF similarity matching
-- Candidate ranking systems
-- Streamlit web app development
-- ML project structuring
-
----
-
-# Conclusion
-
-This project demonstrates how Machine Learning and NLP can automate the resume screening process.
-
-The system helps:
-
-- reduce recruiter workload
-- identify relevant candidates faster
-- improve hiring efficiency
-- provide explainable candidate evaluation
-
----
-
-# Author
-
-Harsha Vardhan
-
-Future Interns — Machine Learning Task 3 (2026)
