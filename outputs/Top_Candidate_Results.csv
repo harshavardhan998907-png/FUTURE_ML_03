@@ -1,0 +1,6 @@
+Category,Final_Score,Extracted_Skills,Missing_Skills
+ENGINEERING,40.532844967312286,"['python', 'data analysis', 'html', 'machine learning', 'tableau', 'excel', 'sql']","['deep learning', 'nlp', 'git', 'tensorflow', 'aws']"
+ENGINEERING,38.07765918307834,"['python', 'leadership', 'git', 'machine learning', 'scikit learn', 'tensorflow', 'sql']","['deep learning', 'nlp', 'data analysis', 'aws']"
+INFORMATION-TECHNOLOGY,37.38119061787923,"['communication', 'java', 'mysql', 'html', 'git', 'javascript', 'react', 'project management', 'mongodb', 'aws', 'excel', 'sql']","['deep learning', 'python', 'nlp', 'data analysis', 'machine learning', 'tensorflow']"
+AUTOMOBILE,36.991333431667755,"['python', 'java', 'data analysis', 'machine learning', 'excel', 'sql']","['deep learning', 'nlp', 'git', 'tensorflow', 'aws']"
+AVIATION,36.92848438686795,"['java', 'html', 'data analysis', 'git', 'aws', 'sql']","['deep learning', 'python', 'nlp', 'machine learning', 'tensorflow']"

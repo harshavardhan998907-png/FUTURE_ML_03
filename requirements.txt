@@ -1,0 +1,12 @@
+
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+spacy
+sentence-transformers
+scikit-learn
+pdfplumber
+pymupdf
